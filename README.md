@@ -9,6 +9,7 @@
 Also, this regularly updates the ranking so that people does not have to manually check the ranking on their own.
 <h4>4. Getting started:</h4> 
 1. Prepare a Raspberry pi and wifi network.
+
 2. Implement an operating system of your preference in the Raspberry pi.
 3. Create a twitter application and twitter account.
 (Make sure to get your own access token, access token secret, API key, and API secret key)
