@@ -29,5 +29,5 @@ You can visit my twitter page to see the result. (Username: Raspberrybot\_SooMin
 5. twython - module for interfacing with Twitter
 6. Web scraping - using urllib and BeautifulSoup
 7. CRON - task scheduler
-etc.
+(etc)
 <h4>If you have any question, please contact me.(21700524@handong.edu)</h4>
