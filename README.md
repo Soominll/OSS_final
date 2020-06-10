@@ -8,8 +8,8 @@
 <h4>3. Usefulness:</h4> Anyone around the world can get an easy access to the ranking of Korean baseball teams through Twitter. Twitter is a world-wide platform. Therefore, Korean baseball League can be widely known by making the information easily reachable to foreigners as well as Koreans.
 Also, this regularly updates the ranking so that people does not have to manually check the ranking on their own.
 <h4>4. Getting started:</h4> 
-1. Prepare a Raspberry pi and wifi network.
 
+1. Prepare a Raspberry pi and wifi network.
 2. Implement an operating system of your preference in the Raspberry pi.
 3. Create a twitter application and twitter account.
 (Make sure to get your own access token, access token secret, API key, and API secret key)
@@ -21,6 +21,7 @@ The "tweet.py" is a practice code, and the "baseball.py" is an actual code for m
 7. Run!
 You can visit my twitter page to see the result. (Username: Raspberrybot\_SooMin)
 <h4>5. What is used in the project:</h4>
+
 1. Shell script
 2. git
 3. vim
