@@ -19,7 +19,7 @@ Also, this regularly updates the ranking so that people does not have to manuall
 The "tweet.py" is a practice code, and the "baseball.py" is an actual code for my project.
 6. If you want your code to be executed regularly, you can make a setting using CRON (In the terminal, type "crontab -e") 
 7. Run!
-You can visit my twitter page to see the result. (Username: Raspberrybot\_SooMin)
+You can visit my twitter page to see the result => https://twitter.com/RaspberrybotSo1
 <h4>5. What is used in the project:</h4>
 
 1. Shell script
@@ -31,4 +31,5 @@ You can visit my twitter page to see the result. (Username: Raspberrybot\_SooMin
 7. CRON - task scheduler
 8. Timestamp
 (etc)
+<h4>6. Explanation Video:</h4> If you want a summarized information and demostration, check out this video => https://youtu.be/p3DI5NfQqb4
 <h4>If you have any question, please contact me.(21700524@handong.edu)</h4>
