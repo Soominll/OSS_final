@@ -16,7 +16,7 @@ Also, this regularly updates the ranking so that people does not have to manuall
 4. Download proper packages, modules, environments for accessing Twitter using the Raspberry pi.
 5. Write a code using any language. 
 (Python is used in my project - You can reference to my code)
-The "tweet.py" is a practice code, and the "baseball.py" is an actual code for my project. Twython is used to interface with Twitter. If you want to scape information from a certain website, you can implement web scraping techniques.
+The "tweet.py" is a practice code, and the "baseball.py" is an actual code for my project. Twython is used to interface with Twitter. If you want to scrape information from a certain website, you can implement web scraping techniques.
 6. If you want your code to be executed regularly, you can make a setting using CRON (In the terminal, type "crontab -e") 
 7. Run!
 You can visit my twitter page to see the result => https://twitter.com/RaspberrybotSo1
