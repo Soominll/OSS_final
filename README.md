@@ -27,8 +27,8 @@ You can visit my twitter page to see the result => https://twitter.com/Raspberry
 3. vim
 4. Python programming language(version 3)
 5. twython - module for interfacing with Twitter
-6. Web scraping - using urllib and BeautifulSoup
-7. CRON - task scheduler
+6. **Web scraping** - using urllib and BeautifulSoup
+7. **CRON** - task scheduler
 8. Timestamp
 (etc)
 <h4>6. Explanation Video:</h4> If you want a summarized information and demostration, check out this video => https://youtu.be/p3DI5NfQqb4
