@@ -32,5 +32,11 @@ You can visit my twitter page to see the result => https://twitter.com/Raspberry
 8. Timestamp
 (etc)
 <h4>6. Explanation Video:</h4> If you want a summarized information and demostration, check out this video => https://youtu.be/p3DI5NfQqb4
-<h4>7. Reference source & my additional contribition:</h4> https://www.makeuseof.com/tag/how-to-build-a-raspberry-pi-twitter-bot/ <- This website includes a step-by-step instruction about how to connect raspberry pi and twitter application. In addition to this, I additionally implemented **web scraping** and **CRON** techniques. By extracting certain information from a website, I was able to print out the same type of information without having to search it repeatedly. Also, CRON task scheduler enabled the python program to be executed periodically by itself. **Timestamp** was also used to provide the updated information.
+<h4>7. Reference source & my additional contribition:</h4> 
+
+- https://www.makeuseof.com/tag/how-to-build-a-raspberry-pi-twitter-bot/ <- This website includes a step-by-step instruction about how to connect raspberry pi and twitter application. 
+- In addition to this, I additionally implemented **web scraping** and **CRON** techniques. 
+- By extracting certain information from a website, I was able to print out the same type of information without having to search it repeatedly. 
+- Also, CRON task scheduler enabled the python program to be executed periodically by itself. 
+- **Timestamp** was also used to provide the updated information at different times.
 <h4>If you have any question, please contact me.(21700524@handong.edu)</h4>
